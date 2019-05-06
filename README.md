@@ -22,6 +22,7 @@
   <br>
   <br>
 </div>
+简直就是不要太方便！我去真牛啊。ts+各种数据库。厉害了 配合koa2/nodej
 
 TypeORM is an [ORM](https://en.wikipedia.org/wiki/Object-relational_mapping)
 that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms
